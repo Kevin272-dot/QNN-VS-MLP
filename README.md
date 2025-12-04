@@ -174,6 +174,6 @@ Replace `StronglyEntanglingLayers` with `BasicEntanglerLayers` or custom gates.
 
 ---
 
-**Author**: Quantum Neural Network Explorer  
+**Author**: L Kevin Daniel
 **Framework**: PennyLane + PyTorch  
 **License**: MIT (or your choice)
